@@ -1,5 +1,5 @@
 [
-  {
+  {"categoryID": "1",
     "category": "happy",
     "textmojis": [
       {"id":  1, "content": "(^_^)"            },
@@ -34,7 +34,7 @@
       {"id": 30, "content": "(◠‿◠)"            }
     ]
   },
-  {
+  {"categoryID": "2",
     "category": "smile",
     "textmojis": [
       {"id":  1, "content": "(✿^‿^)"           },
@@ -69,7 +69,7 @@
       {"id": 30, "content": "(◡‿◡✿)"           }
     ]
   },
-  {
+  {"categoryID": "3",
     "category": "sad",
     "textmojis": [
       {"id":  1, "content": "(╯︵╰,)"   },
@@ -104,7 +104,7 @@
       {"id": 30, "content": "(︶︿︶)"    }
     ]
   },
-  {
+  {"categoryID": "4",
     "category": "angry",
     "textmojis": [
       {"id":  1, "content": "(╬ಠ益ಠ)"                      },
@@ -139,7 +139,7 @@
       {"id": 30, "content": "(｡♥‿♥｡)"                     }
     ]
   },
-  {
+  {"categoryID": "5",
     "category": "shy",
     "textmojis": [
       {"id":  1, "content": "(⁄ ⁄•⁄ω⁄•⁄ ⁄)"  },
@@ -174,7 +174,7 @@
       {"id": 30, "content": "(｡•́‿•̀｡)"      }
     ]
   },
-  {
+  {"categoryID": "6",
     "category": "love",
     "textmojis": [
       {"id":  1, "content": "(｡♥‿♥｡)"         },
