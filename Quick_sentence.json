@@ -1,35 +1,482 @@
 [
-  {
-    "id": "1",
-    "content": "Mom🧡Dad"
-  },
-  {
-    "id": "2",
-    "content": "( ๑ ˃̵ᴗ˂̵)و ♡"
-  },
-  {
-    "id": "3",
-    "content": "escape can be a strong motivation for travel"
-  },{
-    "id": "4",
-    "content": "Real change, enduring change, happens one step at a time."
-  },{
-    "id": "5",
-    "content": "are you ok? hello"
-  },{
-    "id": "6",
-    "content": "1 2 3 4 5"
-  },{
-    "id": "7",
-    "content": "pew pew"
-  },{
-    "id": "8",
-    "content": "rose are red, violet are blue"
-  },{
-    "id": "9",
-    "content": "hello world"
-  },{
-    "id": "10",
-    "content": "check check"
-  }
+    {
+        "id": "1",
+        "content": "Hi! How’s your day going?"
+    },
+    {
+        "id": "2",
+        "content": "Hello! What’s keeping you busy lately?"
+    },
+    {
+        "id": "3",
+        "content": "Hey there! Do you come here often?"
+    },
+    {
+        "id": "4",
+        "content": "Hi! I love your [shirt/shoes/etc.], where did you get it?"
+    },
+    {
+        "id": "5",
+        "content": "Hello! Are you new here?"
+    },
+    {
+        "id": "6",
+        "content": "Hi! What’s your favorite thing to do in your free time?"
+    },
+    {
+        "id": "7",
+        "content": "Hello! Have we met before?"
+    },
+    {
+        "id": "8",
+        "content": "Hi! Where are you from?"
+    },
+    {
+        "id": "9",
+        "content": "Hey! Do you mind if I join you?"
+    },
+    {
+        "id": "10",
+        "content": "Hi! What’s something exciting you’ve done recently?"
+    },
+    {
+        "id": "11",
+        "content": "Hello! Are you into [topic/hobby]?"
+    },
+    {
+        "id": "12",
+        "content": "Hi! Do you have any pets?"
+    },
+    {
+        "id": "13",
+        "content": "Hey there! What’s the last good book you’ve read?"
+    },
+    {
+        "id": "14",
+        "content": "Hi! What’s one thing you’re really passionate about?"
+    },
+    {
+        "id": "15",
+        "content": "Hey! What do you like to do for fun?"
+    },
+    {
+        "id": "16",
+        "content": "Hello! Do you live around here?"
+    },
+    {
+        "id": "17",
+        "content": "Hi! If you could visit any place, where would you go?"
+    },
+    {
+        "id": "18",
+        "content": "Hey! What’s your favorite movie or TV show?"
+    },
+    {
+        "id": "19",
+        "content": "Hello! What kind of music do you enjoy?"
+    },
+    {
+        "id": "20",
+        "content": "Hi! Are you working on anything fun right now?"
+    },
+    {
+        "id": "21",
+        "content": "Hey! Do you enjoy cooking or eating out more?"
+    },
+    {
+        "id": "22",
+        "content": "Hi! What’s your dream job?"
+    },
+    {
+        "id": "23",
+        "content": "Hello! Do you play any sports?"
+    },
+    {
+        "id": "24",
+        "content": "Hey there! Do you like to travel?"
+    },
+    {
+        "id": "25",
+        "content": "Hi! What’s the best place you’ve ever visited?"
+    },
+    {
+        "id": "26",
+        "content": "Hello! Have you been to [local place/event]?"
+    },
+    {
+        "id": "27",
+        "content": "Hi! Are you into gaming or reading?"
+    },
+    {
+        "id": "28",
+        "content": "Hey! What’s your favorite way to relax?"
+    },
+    {
+        "id": "29",
+        "content": "Hi! What’s one skill you’d love to learn?"
+    },
+    {
+        "id": "30",
+        "content": "Hello! Do you enjoy outdoor activities?"
+    },
+    {
+        "id": "31",
+        "content": "What’s the most romantic thing you’ve ever experienced?"
+    },
+    {
+        "id": "32",
+        "content": "Do you believe in love at first sight?"
+    },
+    {
+        "id": "33",
+        "content": "What’s your favorite love story, real or fictional?"
+    },
+    {
+        "id": "34",
+        "content": "How do you usually show someone you care?"
+    },
+    {
+        "id": "35",
+        "content": "What’s your idea of the perfect date?"
+    },
+    {
+        "id": "36",
+        "content": "What’s the sweetest thing someone has done for you?"
+    },
+    {
+        "id": "37",
+        "content": "Do you think love is more about feelings or actions?"
+    },
+    {
+        "id": "38",
+        "content": "What song reminds you of love?"
+    },
+    {
+        "id": "39",
+        "content": "Do you prefer grand gestures or small acts of kindness in a relationship?"
+    },
+    {
+        "id": "40",
+        "content": "What’s the best compliment you’ve ever received?"
+    },
+    {
+        "id": "41",
+        "content": "How do you define a healthy relationship?"
+    },
+    {
+        "id": "42",
+        "content": "What’s your favorite romantic movie or book?"
+    },
+    {
+        "id": "43",
+        "content": "Do you believe that opposites attract in love?"
+    },
+    {
+        "id": "44",
+        "content": "What’s your biggest dealbreaker in a relationship?"
+    },
+    {
+        "id": "45",
+        "content": "What’s the most meaningful gift you’ve ever received?"
+    },
+    {
+        "id": "56",
+        "content": "How do you usually celebrate anniversaries?"
+    },
+    {
+        "id": "57",
+        "content": "What’s the best relationship advice you’ve ever gotten?"
+    },
+    {
+        "id": "58",
+        "content": "Do you think love changes over time?"
+    },
+    {
+        "id": "59",
+        "content": "What’s your love language?"
+    },
+    {
+        "id": "60",
+        "content": "What qualities do you value most in a partner?"
+    },
+    {
+        "id": "61",
+        "content": "Do you think it’s important to be friends before dating?"
+    },
+    {
+        "id": "62",
+        "content": "What’s a small thing that can make you feel loved?"
+    },
+    {
+        "id": "63",
+        "content": "Do you believe in soulmates?"
+    },
+    {
+        "id": "64",
+        "content": "What’s your favorite memory with someone you love?"
+    },
+    {
+        "id": "65",
+        "content": "What’s the hardest part about being in love?"
+    },
+    {
+        "id": "66",
+        "content": "How do you handle disagreements in a relationship?"
+    },
+    {
+        "id": "67",
+        "content": "What’s one thing you’ve learned from past relationships?"
+    },
+    {
+        "id": "68",
+        "content": "Do you think love is a choice or a feeling?"
+    },
+    {
+        "id": "69",
+        "content": "What’s one way you express love to others?"
+    },
+    {
+        "id": "70",
+        "content": "What does love mean to you?"
+    },
+    {
+        "id": "71",
+        "content": "I’m here if you want to talk."
+    },
+    {
+        "id": "72",
+        "content": "It’s okay to feel sad sometimes."
+    },
+    {
+        "id": "73",
+        "content": "You don’t have to go through this alone."
+    },
+    {
+        "id": "74",
+        "content": "What’s on your mind?"
+    },
+    {
+        "id": "75",
+        "content": "Take your time; I’m here to listen."
+    },
+    {
+        "id": "76",
+        "content": "It’s okay not to be okay."
+    },
+    {
+        "id": "77",
+        "content": "Do you want to share what’s bothering you?"
+    },
+    {
+        "id": "78",
+        "content": "I’m sorry you’re going through this."
+    },
+    {
+        "id": "79",
+        "content": "How can I support you right now?"
+    },
+    {
+        "id": "80",
+        "content": "Your feelings are valid."
+    },
+    {
+        "id": "81",
+        "content": "Do you want to take a walk and talk?"
+    },
+    {
+        "id": "82",
+        "content": "Let’s work through this together."
+    },
+    {
+        "id": "83",
+        "content": "It’s tough, but you’re not alone."
+    },
+    {
+        "id": "84",
+        "content": "I understand how hard this must be for you."
+    },
+    {
+        "id": "85",
+        "content": "What do you need most right now?"
+    },
+    {
+        "id": "86",
+        "content": "Sometimes just talking can help. I’m here."
+    },
+    {
+        "id": "87",
+        "content": "I care about you and want to help."
+    },
+    {
+        "id": "88",
+        "content": "You don’t have to face this by yourself."
+    },
+    {
+        "id": "89",
+        "content": "It’s okay to cry; it helps to let it out."
+    },
+    {
+        "id": "90",
+        "content": "I wish I could take this pain away from you."
+    },
+    {
+        "id": "91",
+        "content": "You’re stronger than you think."
+    },
+    {
+        "id": "92",
+        "content": "Let’s take things one step at a time."
+    },
+    {
+        "id": "93",
+        "content": "I’m here whenever you’re ready to talk."
+    },
+    {
+        "id": "94",
+        "content": "This feeling won’t last forever; it will get better."
+    },
+    {
+        "id": "95",
+        "content": "You’re not a burden to anyone."
+    },
+    {
+        "id": "96",
+        "content": "I admire your courage for opening up."
+    },
+    {
+        "id": "97",
+        "content": "Let’s take a moment to breathe together."
+    },
+    {
+        "id": "98",
+        "content": "I’m here to help you carry this burden."
+    },
+    {
+        "id": "99",
+        "content": "Even in your hardest moments, you’re not alone."
+    },
+    {
+        "id": "100",
+        "content": "It’s okay to ask for help when you need it."
+    },
+    {
+        "id": "101",
+        "content": "Congratulations on your amazing achievement!"
+    },
+    {
+        "id": "102",
+        "content": "Well done! I’m so proud of you."
+    },
+    {
+        "id": "103",
+        "content": "You did it! What an incredible success!"
+    },
+    {
+        "id": "104",
+        "content": "Hats off to you for this accomplishment!"
+    },
+    {
+        "id": "105",
+        "content": "Fantastic job! You deserve all the praise."
+    },
+    {
+        "id": "106",
+        "content": "Cheers to your hard work paying off!"
+    },
+    {
+        "id": "107",
+        "content": "This is your moment—enjoy it!"
+    },
+    {
+        "id": "108",
+        "content": "What a remarkable achievement—congratulations!"
+    },
+    {
+        "id": "109",
+        "content": "You’ve earned this success—well done!"
+    },
+    {
+        "id": "110",
+        "content": "I’m thrilled for you—congrats!"
+    },
+    {
+        "id": "111",
+        "content": "Your dedication truly paid off. Congratulations!"
+    },
+    {
+        "id": "112",
+        "content": "This is just the beginning of your success—well done!"
+    },
+    {
+        "id": "113",
+        "content": "You’re an inspiration—congratulations!"
+    },
+    {
+        "id": "114",
+        "content": "Here’s to your amazing accomplishment!"
+    },
+    {
+        "id": "115",
+        "content": "Keep shining! You’ve earned it."
+    },
+    {
+        "id": "116",
+        "content": "Bravo! You’ve outdone yourself."
+    },
+    {
+        "id": "117",
+        "content": "So proud of what you’ve achieved—congrats!"
+    },
+    {
+        "id": "118",
+        "content": "Keep reaching for the stars—congratulations!"
+    },
+    {
+        "id": "119",
+        "content": "Your success is well-deserved. Fantastic job!"
+    },
+    {
+        "id": "120",
+        "content": "Congrats on this new chapter of your life!"
+    },
+    {
+        "id": "121",
+        "content": "You’ve made it! Celebrate your hard work!"
+    },
+    {
+        "id": "122",
+        "content": "You’re truly incredible—well done!"
+    },
+    {
+        "id": "123",
+        "content": "Congrats! The best is yet to come."
+    },
+    {
+        "id": "124",
+        "content": "This is such great news—congratulations!"
+    },
+    {
+        "id": "125",
+        "content": "You’re an example of determination—amazing work!"
+    },
+    {
+        "id": "126",
+        "content": "Here’s to your success—cheers!"
+    },
+    {
+        "id": "127",
+        "content": "What a milestone—congrats on reaching it!"
+    },
+    {
+        "id": "128",
+        "content": "You should be so proud of yourself—well done!"
+    },
+    {
+        "id": "129",
+        "content": "Congratulations on this wonderful accomplishment!"
+    },
+    {
+        "id": "130",
+        "content": "Your efforts have been rewarded—congrats!"
+    }
 ]
